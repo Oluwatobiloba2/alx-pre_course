@@ -1,1 +1,1 @@
-some text commit
+My new text commit
